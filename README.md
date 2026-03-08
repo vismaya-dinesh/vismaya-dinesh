@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Vismaya 👋
 
-<!--
-**vismaya-dinesh/vismaya-dinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Full-Stack Developer  
+🤖 Interested in AI, Machine Learning, and Data Analysis  
 
-Here are some ideas to get you started:
+I enjoy building real-world applications that combine **software development and intelligent systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+- Python
+- Java
+- JavaScript
+- SQL
+
+**Frontend**
+- React
+- HTML
+- CSS
+- Vite
+
+**Backend**
+- Flask
+- REST APIs
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 SupplySync
+A supply chain management system that helps track suppliers, inventory, and orders efficiently.
+
+**Tech Stack:** React, Flask, SQL
+
+---
+
+### 🔹 Job Application Tracker
+A full-stack web application that helps users manage job applications, track application status, and store interview notes and deadlines.
+
+**Tech Stack:** React, Flask, SQLite
+
+---
+
+### 🔹 Image Filter Web App
+A web application that allows users to upload images and apply filters in real-time.
+
+**Tech Stack:** React, Flask
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- AI-powered applications
+- Full-stack system design
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/vismaya-dinesh-kumar-43a6652a5
