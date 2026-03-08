@@ -57,12 +57,6 @@ A web application that allows users to upload images and apply filters in real-t
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vismaya-dinesh&show_icons=true&theme=default)
-
----
-
 ## 🌱 Currently Learning
 
 - Machine Learning
