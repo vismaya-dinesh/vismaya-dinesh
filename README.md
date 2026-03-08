@@ -59,7 +59,7 @@ A web application that allows users to upload images and apply filters in real-t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vismaya-dinesh&show_icons=true)
 
 ---
 
