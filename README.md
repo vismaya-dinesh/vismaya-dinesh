@@ -1,7 +1,7 @@
 # Hi, I'm Vismaya 👋
 
 🎓 MCA Student  
-💻 Full-Stack Developer  
+💻 Aspiring Full-Stack Developer  
 🤖 Interested in AI, Machine Learning, and Data Analysis  
 
 I enjoy building real-world applications that combine **software development and intelligent systems**.
